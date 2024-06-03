@@ -84,7 +84,8 @@ Then, you can start a Jupyter notebook server by running:
 using IJulia
 notebook()
 ```
-
+### Pluto Notebooks
+Pluto notebooks are specifically tailored for running Julia in a fast and interactive environment. There are some differences to Jupyter notebooks
 This will open a new tab in your web browser where you can create and manage Jupyter notebooks.
 
 
